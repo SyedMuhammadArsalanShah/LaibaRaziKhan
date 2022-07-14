@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AdministratorUC",
+    "\\Pharmacy"
   ],
-  "SelectedNode": "\\GulshanMedicalStore.sln",
+  "SelectedNode": "\\GulshanMedicalStore.csproj",
   "PreviewInSolutionExplorer": false
 }
