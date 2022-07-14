@@ -1,0 +1,46 @@
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe.config
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.pdb
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Properties.Resources.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.GenerateResource.cache
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CoreCompileInputs.cache
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.exe
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.pdb
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CopyComplete
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Administrator.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_dashboard.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_AddUser.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.dll
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.xml
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csprojAssemblyReference.cache
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Login.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\Guna.UI2.dll
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_ViewUser.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_Profile.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacist.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_Dashboard.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_AddMedicine.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Administrator.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_AddUser.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_dashboard.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_Profile.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_ViewUser.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Login.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacist.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_AddMedicine.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_Dashboard.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Properties.Resources.resources
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.GenerateResource.cache
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CoreCompileInputs.cache
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe.config
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.pdb
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.dll
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.xml
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CopyComplete
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.exe
+C:\Users\DANISH LAPTOP\Downloads\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.pdb
